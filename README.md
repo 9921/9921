@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-<h3> Adam 🐝 &nbsp;|&nbsp; Fintech Student 💻 &nbsp;|&nbsp; Manchester, UK 🌏</h3> 
+<h3> Adam 🐝 &nbsp;|&nbsp; Computer Science Student 💻 &nbsp;|&nbsp; Manchester, UK 🌏</h3> 
 </div>
 <!--
 **9921/9921** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
